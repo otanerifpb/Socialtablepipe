@@ -1,0 +1,33 @@
+{
+  "usuarios": [
+    {
+      "nome": "Wagner",
+      "cpf": "36475839281",
+      "telefone": "88881234",
+      "idade": "45",
+      "id": 1
+    },
+    {
+      "nome": "Renato",
+      "cpf": "45675839123",
+      "telefone": "+351968881234",
+      "idade": "45",
+      "id": 2
+    },
+    {
+      "nome": "Rivania",
+      "cpf": "1346525",
+      "telefone": "8398882343",
+      "idade": 30,
+      "id": 3
+    },
+    {
+      "nome": "Antonio Carlos",
+      "cpf": "23145678912",
+      "telefone": "03198882343",
+      "idade": "30",
+      "id": 4
+    }
+  ],
+  "mensagens": []
+}
